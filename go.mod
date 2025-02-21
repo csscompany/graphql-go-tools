@@ -1,4 +1,4 @@
-module github.com/wundergraph/graphql-go-tools
+module github.com/csscompany/graphql-go-tools
 
 go 1.20
 
