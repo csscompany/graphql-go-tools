@@ -1,4 +1,4 @@
-module github.com/zaichengwang/graphql-go-tools/execution
+module github.com/csscompany/graphql-go-tools/execution
 
 go 1.21
 
